@@ -7,7 +7,24 @@
 Sou apaixonado por resolver problemas utilizando a programação, onde a automatização é gerar dados valiosos para sua empresa.
 Sou um FullStack Developer :computer:
 
-  &nbsp; Status: EM DESENVOLVIMENTO
+  &nbsp;
+  <h4 align="center"> 
+	🚧  Status:React Select 🚀 Em construção...  🚧
+</h4> 
+### Features
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
+
+  <h1 align="center">Proffy</h1>
+  
+  <h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+  </h1>
+  
+<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+
  <br/> :purple_heart: &nbsp; Buscando colaborar com desafios em:<br/>
   - Front-end usando React. <br/>
   - Back-end usando Nodejs. <br/>
