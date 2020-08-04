@@ -8,7 +8,7 @@ Sou apaixonado por resolver problemas utilizando a programação, onde a automat
 Sou um FullStack Developer :computer:
 
   &nbsp;
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React - Back-end usando Nodejs
+ <br/> :purple_heart: &nbsp; Buscando colaborar com desafios em Front-end usando React - Back-end usando Nodejs - Banco de dados conhecimento em SQL e NoSQL
  <br/> :blush: &nbsp; Posso te ajudar em melhorias de processo e criação de novos Projetos.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript, onde venho estudando cada vez mais.
  <br/> 💬  &nbsp; Sobre mim: Uma pessoa curiosa sobre tecnologia e serviço em geral, onde toda aprendizado pode ser chavves para resoluções de problemas, apaixonado por jogos: Call of duty Mobile...., trilhas e trekking entre outros.
