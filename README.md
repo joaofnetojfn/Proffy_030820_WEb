@@ -7,7 +7,7 @@
 Sou apaixonado por resolver problemas utilizando a programação, onde a automatização é gerar dados valiosos para sua empresa.
 Sou um FullStack Developer :computer:
 
-  &nbsp;
+  &nbsp; Status: EM DESENVOLVIMENTO
  <br/> :purple_heart: &nbsp; Buscando colaborar com desafios em:<br/>
   - Front-end usando React. <br/>
   - Back-end usando Nodejs. <br/>
