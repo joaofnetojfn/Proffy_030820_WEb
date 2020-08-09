@@ -112,7 +112,7 @@ Confira a página de [contribuição](./CONTRIBUTING.md) para ver como começar 
 
 Lançado em 2020 :closed_book: Licencia
 
-Made with love by [Rafael Goulart](https://github.com/joaofnetojfn) 🚀.
+Feito com amor por [JoãoFerreiraNeto](https://github.com/joaofnetojfn) 🚀.
 Esse projeto esta sobre [MIT license](./LICENSE).
 
 
