@@ -47,6 +47,7 @@ Sou um FullStack Developer :computer:
 <h2 align="left"> 📥 Layout disponivel para download em: </h2>
 <p align="center">
     <a title="Download .fig Web" href="./index_web.png">
+	![alt text](https://github.com/joaofnetojfn/Proffy_030820_WEb/blob/master/IMG-Readme/index_web.png)
         <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
     </a>
     <a title="Download .fig Mobile" href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/736336db-c43b-4319-ab44-594da9fb6cd0/Proffy_Mobile.fig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200804T053403Z&X-Amz-Expires=86400&X-Amz-Signature=01373fafe79f7e8ab5377c5f097e0268631e4a933cb1733dd8138e1bf66a8b09&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Proffy_Mobile.fig%22">
