@@ -15,10 +15,8 @@ Sou um FullStack Developer :computer:
   <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
   </h1>
-  
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-<p align="center">:rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat</p>
+<p align="center">:rocket:🚀  Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat</p>
 
 <p align="center">
     ·
@@ -74,7 +72,7 @@ $ git clone https://github.com/joaofnetojfn/Proffy_030820_WEb.git
 
 ```bash
 # Vá para a pasta web
-$ cd Proffy/web
+$ cd Proffy_030820_WEb
 
 # Instale as depedencias
 $ yarn install
