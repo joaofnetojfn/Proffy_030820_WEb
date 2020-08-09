@@ -50,14 +50,6 @@ Sou um FullStack Developer :computer:
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
    <img src="./IMG-Readme/index_web.png" width="400px">
    <img src="./IMG-Readme/web-list.png" width="400px">
-</div>
-
-### Mobile Screenshot
-<div style="display: flex; flex-direction: 'row';">
-   <img src="./.github/mobile-splash.png" width="180">
-   <img src="./.github/mobile-onboarding.png" width="180">
-   <img src="./.github/mobile-home.png" width="180">
-   <img src="./.github/mobile-favoritos.png" width="180">
 </div> 
 
 # :computer: Tecnologias
