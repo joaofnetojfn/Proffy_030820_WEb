@@ -48,8 +48,8 @@ Sou um FullStack Developer :computer:
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="./.github/Proffy_030820_WEb/IMG-Readme/index_web.png" width="400px">
-   <img src="./.github/IMG-Readme/web-list.png" width="400px">
+   <img src="./IMG-Readme/index_web.png" width="400px">
+   <img src="./IMG-Readme/web-list.png" width="400px">
 </div>
 
 ### Mobile Screenshot
